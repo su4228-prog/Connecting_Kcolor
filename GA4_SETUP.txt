@@ -1,0 +1,23 @@
+Connecting K-Color — GA4 setup
+
+1. Google Analytics 4에서 웹 데이터 스트림을 만든 뒤 Measurement ID (예: G-ABC123DE45)를 확인합니다.
+2. index.html 상단의 아래 값을 실제 ID로 교체합니다.
+
+window.KCOLOR_GA_MEASUREMENT_ID = "G-XXXXXXXXXX";
+
+3. 그 외 이벤트 코드는 이미 app.js에 연결되어 있습니다.
+
+수집 이벤트
+- constellation_hover
+- connection_start
+- constellation_complete
+- constellation_reset
+- artifact_reveal
+- color_detail_open
+- artifact_story_open
+- learn_more_click
+- museum_location_click
+- view_collection_open
+- about_data_open
+
+GA4 기본 page_view도 Measurement ID가 연결되면 자동 수집됩니다.
