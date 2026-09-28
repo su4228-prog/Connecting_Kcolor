@@ -11,6 +11,8 @@
 📁 Portfolio  
 ([Connecting K-Color Portfolio.pdf](https://github.com/user-attachments/files/32713936/Connecting.K-Color.Portfolio.pdf))
 
+https://github.com/user-attachments/assets/9e52f6b7-e1a8-43b4-90e1-ac7bcac1fb60
+
 ---
 
 ## 💡 프로젝트 목표
